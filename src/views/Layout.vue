@@ -78,7 +78,7 @@
                     <q-card dark bordered class="bg-grey-9 q-ma-md">
                         <q-card-section>
                             <div class="text-h6">免责声明</div>
-                            <div class="text-subtitle2">shadowsong</div>
+                            <div class="text-subtitle2">lizhipingguo</div>
                         </q-card-section>
 
                         <q-separator dark inset/>
